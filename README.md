@@ -31,7 +31,7 @@ This is a simple To-Do List application that allows users to create, read, updat
     GOOGLE_CLIENT_SECRET = 
 5. Start the Server
     ```bash
-    node run start
+    npmx run start
 
 
 ## Usage
