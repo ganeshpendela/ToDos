@@ -2,10 +2,10 @@
 
 ## Overview
 
-This is a simple To-Do List application that allows users to create, read, update, and delete tasks. The application uses Passport.js for user authentication and SQLite3 as the database.
+This is a simple To-Do List application that allows users to create, read, update, and delete tasks. The application is built using HTML, CSS, JS, Node.js and used Passport.js for user authentication and SQLite3 as the database.
 
 ## Live Preview
-[Click here](https://todos-w487.onrender.com) for a live preview of Blogify, **it takes a minute to load(since deployed in a free server)** .
+[Click here](https://todos-w487.onrender.com) for a live preview of To-Do List Application, **it takes a minute to load(since deployed in a free server)** .
 
 
 ## Features
