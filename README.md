@@ -26,8 +26,9 @@ This is a simple To-Do List application that allows users to create, read, updat
     ```bash 
     npm run setup-db
 4. Create a .env file in the root directory and add your environment variables:
-    GOOGLE_CLIENT_ID
-    GOOGLE_CLIENT_SECRET
+    ```bash
+    GOOGLE_CLIENT_ID = 
+    GOOGLE_CLIENT_SECRET = 
 5. Start the Server
     ```bash
     node run start
